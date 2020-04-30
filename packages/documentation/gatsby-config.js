@@ -25,6 +25,8 @@ module.exports = {
 		'gatsby-plugin-favicon',
 		'gatsby-plugin-react-helmet',
 		'gatsby-plugin-styled-components',
+		'gatsby-plugin-sharp',
+		'gatsby-transformer-sharp',
 
 		// Handle Markdown Content
 		{

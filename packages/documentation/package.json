@@ -28,7 +28,7 @@
     "prismjs": "^1.15.0",
     "react": "^16.6.1",
     "react-dnd": "^6.0.0",
-    "react-dnd-documentation-examples": "^6.0.0",
+    "react-dnd-documentation-examples": "file:../documentation-examples",
     "react-dnd-html5-backend": "^6.0.0",
     "react-dnd-test-backend": "^6.0.0",
     "react-dom": "^16.6.1",
